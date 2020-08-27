@@ -1,0 +1,7 @@
+﻿  sort.cpp
+g:\desktop\githubcode&vs_code\c\排序算法\排序算法\bubblesort.hpp(4): warning C4018: “<”: 有符号/无符号不匹配
+g:\desktop\githubcode&vs_code\c\排序算法\排序算法\bubblesort.hpp(5): warning C4018: “<”: 有符号/无符号不匹配
+g:\desktop\githubcode&vs_code\c\排序算法\排序算法\quicksort.hpp(9): warning C4101: “temp”: 未引用的局部变量
+g:\desktop\githubcode&vs_code\c\排序算法\排序算法\sort.cpp(10): warning C4018: “<”: 有符号/无符号不匹配
+  排序算法.vcxproj -> G:\desktop\githubcode&VS_code\c\排序算法\Debug\排序算法.exe
+  排序算法.vcxproj -> G:\desktop\githubcode&VS_code\c\排序算法\Debug\排序算法.pdb (Partial PDB)
